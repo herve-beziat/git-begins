@@ -1,3 +1,13 @@
 Pour cloner un repository nous avons besoin de faire :
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
+3 commandes seront nécessaires pour PUSH notre projet.
+
+$ git add [nom du fichier]
+Ajoute un instantanée du fichier, en préparation pour le suivi de version
+
+$ git commit -m "message descriptif"
+Enregistre des instatanées de fichier de façon permanente dans l'historique des versions.
+
+$ git push [alias] [branche]
+Envoie tout les commits de la branche locale vers github.
