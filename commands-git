@@ -11,3 +11,6 @@ Enregistre des instatanées de fichier de façon permanente dans l'historique de
 
 $ git push [alias] [branche]
 Envoie tout les commits de la branche locale vers github.
+
+$ git pull
+Récupère tout l'historique du dépôt nommé et incorpore les modifications
