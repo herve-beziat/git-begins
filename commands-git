@@ -19,3 +19,6 @@ Permet de créer une nouvelle branche
 
 $ git checkout [nom-de-branche]
 Bascule sur la branche spécifiée et met à jour le répertoire de travail
+
+Hello World
+balalalallala
